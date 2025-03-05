@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "manoj Barange",
-    "occupation": "CEO of PAPA",
+    "occupation": "CEO of webdesignsolution",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
     "bio": "Hi there! I am manoj! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
@@ -14,7 +14,7 @@
       "state": "Devosphere",
       "zip": "W3B D3V"
     },
-    "website": "https://www.papareact.com/course",
+    "website": "https://www.webdesignsolution.com",
     "resumedownload": "http://papareact.com",
     "social": [
       {
@@ -29,17 +29,17 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajanBarange",
+        "url": "https://www.linkedin.com/in/manojBarange",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/sssBarange/",
+        "url": "https://www.instagram.com/manojBarange/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/manojbarange",
         "className": "fa fa-github"
       }
     ]
@@ -56,7 +56,7 @@
     ],
     "work": [
       {
-        "company": "PAPA",
+        "company": "webdesignsolution",
         "title": "Founder and CEO",
         "years": "May 2019 - Present",
         "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
